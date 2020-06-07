@@ -7,6 +7,8 @@
  
  If you want to add note just click "+" button.Write title and description.
  
+ After task is accomplished clic at "check" button on the right of the note
+ 
  You can sign out by clicking on Toolbar "3 dots".Than app will take you to the Main screen.And you will be log out from firesotre
  
  Background in this app is created with gradient animation using yellow, orange, pink color.
