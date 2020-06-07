@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#212121</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#ECECEC</color>
+    <color name="colorTransparent">#00ffffff</color>
+
+    <color name="journal_row_transparentWhite">#BFFFFFFF</color>
+    <color name="colorGray">#FAFAFA</color>
+
+    <color name="colorGradientStart">#D9FF43</color>
+    <color name="colorGradientCenter">#F67831</color>
+    <color name="colorGradientEnd">#FF1493</color>
+
+    <color name="colorOrangeFont">#ffa500</color>
+</resources>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main_id"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/gradient_animation"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="18dp"
+    tools:context=".MainActivity">
+
+
+
+    <TextView
+        android:id="@+id/title_textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/title_text"
+        android:textSize="30sp" />
+
+    <RelativeLayout
+        android:id="@+id/relativeLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal">
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            app:cardCornerRadius="6dp"
+            app:cardElevation="6dp"
+            app:cardUseCompatPadding="true">
+
+            <TextView
+                android:id="@+id/gratefulTextView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal|center_vertical"
+                android:text="@string/grateful_text"
+                android:textSize="22sp"/>
+
+        </androidx.cardview.widget.CardView>
+    </RelativeLayout>
+
+    <Button
+        android:id="@+id/get_started_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/get_started_button_text"
+        android:textSize="18sp"
+        android:textColor="@android:color/black"
+        android:background="@android:color/transparent"/>
+
+</LinearLayout>

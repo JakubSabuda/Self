@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "780873643518",
+    "firebase_url": "https://self-99843.firebaseio.com",
+    "project_id": "self-99843",
+    "storage_bucket": "self-99843.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780873643518:android:184f0560ac1fbcf16fbcaf",
+        "android_client_info": {
+          "package_name": "com.jakubsabuda.self"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780873643518-vpemovdf6ii27kdek50fpab7b8ino0ds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZdP3_2fun5fvo-cJNt5OViLl6pwmS6JA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780873643518-vpemovdf6ii27kdek50fpab7b8ino0ds.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

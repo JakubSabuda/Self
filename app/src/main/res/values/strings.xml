@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">To Do</string>
+    <string name="title_text">ToDo List App</string>
+    <string name="grateful_text">Log in and start writing</string>
+    <string name="get_started_button_text">GET STARTED</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="login_button_text">Login</string>
+    <string name="or_textView">or</string>
+    <string name="create_account_button_text">CREATE ACCOUNT</string>
+    <string name="acct_name_hint">Name</string>
+    <string name="post_save_journal_button_text">save</string>
+    <string name="post_journal_hint_title">Title</string>
+    <string name="post_journal_hint_thought">Thing to do</string>
+    <string name="menu_title_text">add thoughts</string>
+    <string name="sing_out_text">Sign Out</string>
+    <string name="no_thoughts_hint">To add note click + on top</string>
+</resources>
